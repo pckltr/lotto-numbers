@@ -1,0 +1,26 @@
+.tiers {
+  flex: 1;
+  text-align: left;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-right: 20px;
+  border-collapse: collapse;
+  color: #617580;
+}
+
+th {
+  background: #E3EAF4;
+}
+
+tr:nth-child(2n) td {
+  background: #E3EAF4;
+}
+
+tr:nth-child(2n+1) td {
+  background: #F2F5FA;
+}
+
+th,
+td {
+  padding: 10px;
+}

@@ -1,0 +1,25 @@
+.winning_numbers {
+  background: #617580;
+  padding-top: 1px;
+  color: #ffffff;
+  padding: 20px;
+}
+
+h4 {
+  margin: 0 0 10px 0;
+}
+
+.number {
+  border-radius: 50%;
+  border: 1px solid #809199;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  margin-right: 5px;
+}
+
+.euro_number {
+  border-color: #942929;
+}
